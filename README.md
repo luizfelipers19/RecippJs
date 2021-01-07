@@ -8,7 +8,9 @@ Things to update:
 
 -Add Modal View to the Recipe Component, so when it's button gets pressed, a modal is opened to show the ingredients.
 
--Create a Home Page's Header and HeroSection
+-Create a Home Page's Header and HeroSection.
+
+-Redesign the layout in general.  =P
 
 ## Desktop Demo
 ![](https://user-images.githubusercontent.com/26651389/103841616-bfd78b00-5072-11eb-8c39-1bc4c0bc0e31.gif)
