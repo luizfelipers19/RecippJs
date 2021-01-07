@@ -1,6 +1,8 @@
 # RecippJs
 
-Single-page React webapp that fetches that from Edaman's Recipes API. This was built after following Dev Ed tutorial on youtube, and it's already been modified from the video version, but with more changes to come in the future.
+Single-page React webapp that fetches that from Edaman's Recipes API. This was built after following Dev Ed tutorial on youtube, and it's already been modified from the video version, but with more changes to come in the future. This project was built using React Hooks and CSS.
+
+
 
 Things to update:
 
