@@ -6,7 +6,14 @@ Things to update:
 
 -Refactor all the CSS into Styled Components
 
--Add Modal View to the Recipe Component, so when it's button gets pressed, a modal is opened to show the ingredients
+-Add Modal View to the Recipe Component, so when it's button gets pressed, a modal is opened to show the ingredients.
+
+-Create a Home Page's Header and HeroSection
+
+## Desktop Demo
+![](https://user-images.githubusercontent.com/26651389/103841616-bfd78b00-5072-11eb-8c39-1bc4c0bc0e31.gif)
+## Responsive Demo
+![](https://user-images.githubusercontent.com/26651389/103841607-b9e1aa00-5072-11eb-941c-1454acb5a4ca.gif)
 
 
 
