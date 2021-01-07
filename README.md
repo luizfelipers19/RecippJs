@@ -1,10 +1,11 @@
-#Recipp
+# RecippJs
 
 Single-page React webapp that fetches that from Edaman's Recipes API. This was built after following Dev Ed tutorial on youtube, and it's already been modified from the video version, but with more changes to come in the future.
 
 Things to update:
 
 -Refactor all the CSS into Styled Components
+
 -Add Modal View to the Recipe Component, so when it's button gets pressed, a modal is opened to show the ingredients
 
 
