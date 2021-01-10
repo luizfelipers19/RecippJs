@@ -5,16 +5,18 @@ Single-page React webapp that fetches that from Edaman's Recipes API. This was b
 The API key shown in this repo isn't available, as it was used only for the early development, and now I use another key. Make sure you create a key after signing up for free to EDAMAN's API, then copy it in the respective place (App.js file).
 
 
+-- Already updated:
+- Redesigned the cards to be clickable without the button. Modal w/ the ingredients is being implemented. Full recipe will be located in a separated page.
 
 Things to update:
 
--Refactor all the CSS into Styled Components
+- Refactor all the CSS into Styled Components
 
--Add Modal View to the Recipe Component, so when it's button gets pressed, a modal is opened to show the ingredients.
+- Add Modal View to the Recipe Component, so when it's button gets pressed, a modal is opened to show the ingredients.
 
--Create a Home Page's Header and HeroSection.
+- Create a Home Page's Header and HeroSection.
 
--Redesign the layout in general.  =P
+- Redesign the layout in general.  =P
 
 ## Desktop Demo
 ![](https://user-images.githubusercontent.com/26651389/103841616-bfd78b00-5072-11eb-8c39-1bc4c0bc0e31.gif)
