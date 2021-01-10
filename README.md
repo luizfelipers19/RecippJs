@@ -5,10 +5,10 @@ Single-page React webapp that fetches that from Edaman's Recipes API. This was b
 The API key shown in this repo isn't available, as it was used only for the early development, and now I use another key. Make sure you create a key after signing up for free to EDAMAN's API, then copy it in the respective place (App.js file).
 
 
--- Already updated:
+-- ALREADY UPDATED :+1: and to be comitted :
 - Redesigned the cards to be clickable without the button. Modal w/ the ingredients is being implemented. Full recipe will be located in a separated page.
 
-Things to update:
+Things to update :construction_worker: :
 
 - Refactor all the CSS into Styled Components
 
