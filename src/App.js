@@ -5,8 +5,8 @@ import Recipe from './Components/Recipe/index';
 
 function App() {
 
-  const APP_ID = 'e7b7b118';
-  const APP_KEY = '178b08b105eb84e7f0a5080ffb357491';
+  const APP_ID = 'your id here';
+  const APP_KEY = 'your app key here';
 
   const exampleUrl = `https://api.edamam.com/search?q=chicken&app_id=${APP_ID}&app_key=${APP_KEY}`;
 
