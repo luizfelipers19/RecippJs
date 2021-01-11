@@ -13,7 +13,7 @@ h1 { margin-top: 0; }
 
 .titulo{
   font-style: italic;
-  font-weight: bolder;
+  font-weight: bold;
   justify-content: center;
   align-items: center;
   display: flex;

@@ -1,64 +1,72 @@
 .recipe{
 
     border-radius: 20px;
-    box-shadow: 0px 10px 20px black;
+    box-shadow: 0px 1px 5px black;
     margin: 30px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
     min-width: 35%;
-    background: rgba(255, 255, 126, 0.712);
-    padding: 35px;
-    padding-top:-10px ;
+    background: rgba(255, 255, 81, 0.719);
+    padding: 0px;
+    cursor: pointer;
 
 
+}
 
+.recipe:hover{
+    transform: scale(1.01);
+    box-shadow: 0px 15px 25px black;
+    transition: 0.1s all ease-in-out;
 }
 
 .titulo{
     font-style: italic;
-    font-size: 2em;
+    font-size: 1.5em;
     margin-bottom: -10px;
-   
+   margin-top: 10px;
     color: white;
-    text-shadow: 0px 3px 1px black;
-   
+    text-shadow: 0px 2px 0.5px black;
+   justify-content: space-around;
 }
 
 .calorias{
     font-style: italic;
-    font-size: 1.2em;
+    font-size: 0.8em;
+    font-weight: bold;
   
 
 }
 
 .fitlevel{
     font-style: italic;
-  font-size: 1.2em;
+  font-size: 0.8em;
   font-weight: bold;
-  color: rgb(0, 100, 0);
-  text-shadow: black 0px 1px px;
+  font-weight: bold;
+  color: black;
+  text-shadow: 0px 1px 1px white;
 }
 
 
 
 .image{
-width: 80%;
+width: 60%;
 border-radius: 25%;
+box-shadow:0px 1px 2px black ;
 
 }
 
 .button{
     background-color:tomato; 
-    border-radius:20px;
-    color: white;
-    padding: 15px ;
+    border-radius:10px;
+    color: yellow;
+    padding: 10px ;
     text-align: center;
     font-weight: bold;
-    
+    margin-top: -10px;
     display: inline-block;
-    font-size: 20px;
+    font-size: 13px;
 cursor: pointer;
 
    
@@ -66,6 +74,8 @@ cursor: pointer;
 }
  .button:hover{
     background-color:red;
+    font-style: italic;
     transition: 0.2s ease-in-out;
+    color: yellow;
 
 }

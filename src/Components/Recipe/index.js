@@ -13,8 +13,8 @@ const Recipe = ({title, image, calories, ingredients, fitlevel}) => {
                 {ingredients.map(ingredient => (
                     <li>{ingredient.text}</li>
                 ))}
-                </ul> */}
-            <button className={style.button}>Ver ingredientes!</button>
+                </ul> 
+            <button className={style.button}>Ver ingredientes!</button> */}
         </div>
     );
 };
